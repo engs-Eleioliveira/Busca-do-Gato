@@ -1,4 +1,4 @@
-#include <iosteam>
+#include <iostream>
 using namespace std;
 
 cout >> "Bem Vindo ao Encontre o GATO" <<endl <<endl;
